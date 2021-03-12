@@ -2,6 +2,6 @@
   <head>
     <title>Test</title>
   </head>
-  <body>aoa
+  <body><?php echo 'test' ?>
   </body>
 </html>
